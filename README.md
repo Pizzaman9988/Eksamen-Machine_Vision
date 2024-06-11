@@ -1,6 +1,6 @@
 # MachineVisionReport Template 
 An OverLeaf template that can be used for Machine Vision reports
-#### Using Overleaf
+## Using Overleaf
 
 1. Log in to [Overleaf](https://www.overleaf.com/).
 2. Create a new project and select "Upload Project".
