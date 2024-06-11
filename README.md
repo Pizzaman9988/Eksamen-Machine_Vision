@@ -7,6 +7,10 @@ An OverLeaf template that can be used for Machine Vision reports
 3. Upload the contents of the repository folder.
 4. The document should compile automatically.
 
-## How to Use
-1. All figures, diagrams, and graphs can be placed under the folder called 'figures'
-2. references.bib files consists of the references used in the example, it should be updated based on the sources used in the report
+
+## Customizing the Template
+
+1. Edit `main.tex` to change the document structure and content.
+2. All figures, diagrams, and graphs can be placed under the folder called 'figures'
+3. Add your own sections in the `sections` folder and include them in `main.tex`.
+5. Update `references.bib` with your own references.
